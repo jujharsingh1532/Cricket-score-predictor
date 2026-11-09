@@ -1,7 +1,7 @@
 # Cricket-score-predictor
-##Problem Statement
-Predicting the final score of all cricket match before the completion of match is difficult as the score changes with every over and every wicket
-#Objective 
+##PROBLEM STATEMENT:
+ Predicting the final score of all cricket match before the completion of match is difficult as the score changes with every over and every wicket
+#OBJECTIVE :
 this is a machine learning project which helps us to predict the final score of cricket innings by learning the relationship with the help of LINEAR REGRESSION 
 we need the details such as overs completed, current runs,and wickets lost
 
