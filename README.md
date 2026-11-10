@@ -1,5 +1,5 @@
 # Cricket-score-predictor
-##PROBLEM STATEMENT:
+# PROBLEM:
  Predicting the final score of all cricket match before the completion of match is difficult as the score changes with every over and every wicket
  
 # OBJECTIVE :
@@ -209,7 +209,7 @@ Institution: Indian Institute of Technology Ropar
 
 Project Type: Machine Learning Mini Project
 
-##DATA and TOOLS USED
+# DATA and TOOLS USED
 The data used in this project is sourced from CRICSHEET(and open data cricket data source )
 the main programming language is python here
 pandas and numPy have been used for cleaning ,preprocessing , manipulation, and numerical operations 
