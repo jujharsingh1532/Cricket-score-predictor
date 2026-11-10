@@ -12,7 +12,7 @@ we need the details such as overs completed, current runs,and wickets lost
 |Jujhar Singh|2026MCB1532|Execution lead|
 Srinath Dixit|2026EEB1413|PPT lead|
 Souvik Das|2026AIB1084|Documentation lead|
-Randhi PUJITHA|2026DAB1304|Video lead| 
+Randhi Pujitha|2026DAB1304|Video lead| 
 
 # OUR APPROACH
 
