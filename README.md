@@ -36,33 +36,33 @@ Using these inputs, the trained model estimates the final score of the innings.
 
 The dataset contains IPL match information used to train and evaluate our Linear Regression model.
 
-Features Used
+Features Used:
 
 Feature
 
 Description
 
-Match_ID
+Match_ID:
 
-Unique identification number of the match
+Unique identification number of the match:
 
-Innings
+Innings:
 
 Innings number (1st or 2nd)
 
-Overs
+Overs:
 
 Number of overs completed
 
-Current_Runs
+Current_Runs:
 
 Total runs scored so far
 
-Wickets
+Wickets:
 
 Number of wickets lost
 
-Final_Runs
+Final_Runs:
 
 Actual final score of the innings
 
