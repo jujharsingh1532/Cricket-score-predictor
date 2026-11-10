@@ -211,10 +211,16 @@ Project Type: Machine Learning Mini Project
 
 # DATA and TOOLS USED
 The data used in this project is sourced from CRICSHEET(and open data cricket data source )
+
 the main programming language is python here
+
 pandas and numPy have been used for cleaning ,preprocessing , manipulation, and numerical operations 
+
 matplotlib have been used to visualize the data understand different patterns in matches
+
 Scikit-learn was used for preprocessing and building the machine learning model
+
 VS code have been used for developing,training, and testing the model.
+
 Git hub was used to store ,manage,and share the project files and code
 
