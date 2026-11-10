@@ -22,8 +22,6 @@ The model learns the relationship between different match conditions and the fin
 
 The prediction is based on the following parameters:
 
-Match ID
-
 Innings
 
 Overs completed
