@@ -56,7 +56,7 @@ Cricket-score-predictor/
 Tested on Python <3.xx> (<Windows / macOS / Ubuntu>).
 
 ```bash
-git clone https://github.com/jujharsingh5479/Cricket-score-predictor.git
+git clone https://github.com/jujharsingh1532/Cricket-score-predictor.git
 cd Cricket-score-predictor
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
