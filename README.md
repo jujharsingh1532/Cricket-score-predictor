@@ -93,8 +93,8 @@ Average test error by checkpoint: about 21 runs at 5 overs, 17 at 10 overs and 1
 ## Links
 
 - Slides (5): [`Presentation/slides.pdf`](Presentation/slides.pdf)
-- Video (≤ 5 min): <unlisted YouTube or Drive link>
-
+- Video (≤ 5 min): 
+https://youtu.be/0hq1gvIuzSQ?si=OhUB4lh2P_koiMEg
 ## AI-use disclosure
 
 - Claude (Anthropic): reviewed our `data_prep` code and suggested fixes (use first innings only, snapshot at the first row of the checkpoint, drop shortened innings); drafted the first version of the exploration, train/test, evaluation and plotting cells in `main.ipynb`, and of this README, plus help with Git commands. We ran and checked the code and edited it; all members can explain it.
