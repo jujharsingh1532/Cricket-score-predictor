@@ -20,7 +20,7 @@ All four members contributed code (see the commit history).
 
 **Problem.** While a team is batting first, can we estimate where its innings will end? Given the score, wickets lost and overs completed at a checkpoint (5, 10 or 15 overs), the model predicts the final first-innings total. This is a regression problem.
 
-**Data.** IPL 2026 ball-by-ball data (source: <add link to where you downloaded it>).
+**Data.** IPL 2026 ball-by-ball data (source: https://www.kaggle.com/datasets/riyagarg0314/ipl-ball-by-ball-data-2008-2026).
 
 - `data/ipl_2026_ball_by_ball.csv`: the raw data, 17,509 deliveries, 25 columns, 74 matches.
 - `data/ipl_score_prediction.csv`: the dataset we built from it, 213 rows from 71 matches (one row per match per checkpoint).
