@@ -61,13 +61,14 @@ cd Cricket-score-predictor
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+code . # Open vscode
 ```
 
 `requirements.txt` pins the library versions we used (pandas, numpy, matplotlib, scikit-learn, jupyter).
 
 ## How to run
 
-1. Start Jupyter from the repository folder: `jupyter notebook`
+1. Open VS Code  or Start Jupyter from the repository folder: `jupyter notebook`
 2. Open `src/data_prep.ipynb` and choose **Run All**. It reads `data/ipl_2026_ball_by_ball.csv` and writes `data/ipl_score_prediction.csv` (the prepared file is already included, so this step is optional).
 3. Open `src/main.ipynb` and choose **Run All**. It trains the model, prints the metrics and saves the plots in `outputs/`.
 
